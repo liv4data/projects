@@ -25,6 +25,8 @@ Major Tasks:
 -Create vector embeddings of datasets and map to project and domain choices
 
 ## Approach
+![Image depicting the flowchart of the dataset project recommendation engine.](https://github.com/liv4data/projects/blob/a8d71f82b50385c20bb9769b43d60fa4b387c4e3/rec_engine/Data_Flow.png)
+
 ### Ingestion
 Metadata of public datasets was retrieved from data.gov using the CKAN API into a parquet file using Databricks and pyspark. The metadata retrieved with the CKAN API included the title, ID, name, date metadata last modified, description, date published, date modified, landing page, access level, organization, group, tags, resources, and formats. 
 
