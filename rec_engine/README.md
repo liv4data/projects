@@ -12,7 +12,7 @@ Many data analytics students use the same projects over and over:
 
 While public data sources like Kaggle and Hugging Face can be great for students aiming to learn various data analysis techniques, they largely ignore the largest steps of a data project: collection and cleaning. As cleverly stated by Mitch Kapor, there is an overwhelming amount of information on the internet, and it can be difficult for students to decide how to start a project.
 
-Getting information off the internet is like taking a drink from a fire hydrant.
+> Getting information off the internet is like taking a drink from a fire hydrant.
 -- Mitch Kapor
 
 ## Goal and Tasks
