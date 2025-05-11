@@ -19,10 +19,10 @@ Getting information off the internet is like taking a drink from a fire hydrant.
 Goal: Develop a recommendation engine that suggests best datasets to match a knowledge domain and project type for data science students.
 
 Major Tasks:
--Compile a set of public datasets
--Use NLP to gleam insights about dataset domain (topic)
--Identify project types and domains for user selection
--Create vector embeddings of datasets and map to project and domain choices
+- Compile a set of public datasets
+- Use NLP to gleam insights about dataset domain (topic)
+- Identify project types and domains for user selection
+- Create vector embeddings of datasets and map to project and domain choices
 
 ## Approach
 ### Pipeline
