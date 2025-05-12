@@ -57,4 +57,4 @@ Both the dataset_recommender dataframe and topic_choices dataframe with their em
 ### Recommender Interface
 The notebook displays the 6 potential knowledge domains to the user for selection, and then possible topic options for the chosen domain. The user is then able to select one of the eight project types. The domain and topic are located in the topic_choices dataframe, and its embedding is used to query Qdrant for the 10 closest datasets, ranked by project suitability. The matches are then presented to the user with its title, description and landing page URL. 
 
-![Image depicting the flowchart of the dataset project recommendation engine.](https://github.com/liv4data/projects/blob/a8d71f82b50385c20bb9769b43d60fa4b387c4e3/rec_engine/Data_Flow.png)
+<img src="https://github.com/liv4data/projects/blob/a8d71f82b50385c20bb9769b43d60fa4b387c4e3/rec_engine/Data_Flow.png" height = 600>
