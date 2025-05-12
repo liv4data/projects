@@ -1,1 +1,8 @@
-# projects
+# Project Portfolio
+|Project Link|Project Type|Description|
+|---|---|---|
+|[Cesarean Delivery Classification](https://github.com/liv4data/projects/blob/dae4a941eb95ecc5c59ee60753a8aac37ecff2ea/natality_classification/README.md)|Supervised Learning Classification|Aimed to classify deliveries by C-section vs. vaginal based on the 2023 Natality dataset. This project was completed as a course assignment for my MS in Data Science. Includes EDA and Classification notebooks.|
+|[Data Matchmaker](https://github.com/liv4data/projects/blob/dae4a941eb95ecc5c59ee60753a8aac37ecff2ea/rec_engine/README.md)|Recommendation Engine|Used to suggest publicly available datasets based on a specific domain and project type. This project was completed as a course assignment for my MS in Data Science. Includes 2 python files and 2 jupyter notebooks.|
+|[Clinical Trial Recruitment Analysis](https://github.com/liv4data/projects/blob/dae4a941eb95ecc5c59ee60753a8aac37ecff2ea/recruitment_visualization/README.md)|Written Report, Dashboard, EDA|Visualizations and insights gained from an in-depth analysis of clinical trial recruiting data. Includes sample images of the report developed in Power BI.|
+|[MPH Practicum Project](https://github.com/liv4data/projects/blob/dae4a941eb95ecc5c59ee60753a8aac37ecff2ea/mph-practicum/README.md)|Written Report|Documentation related to my community practicum project I completed to earn my Master of Public Health.|
+|[Expense Report](https://github.com/liv4data/projects/blob/23fa076da4e4a82ab9f4ea2bf481b7c4f520726c/PowerBI-Expense-Report.png)|Dashboard|Visual dashboard of division expenses curated and delivered to the department chair at the end of each month for FY24. Developed in Power BI from Excel file shared by finance program manager.|
