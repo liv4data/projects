@@ -52,7 +52,7 @@ Within the context of the practicum project, I analyzed pantries that commonly r
 
 ## Results
 
-|![Historgram of proportion of red foods before](https://github.com/liv4data/mph-practicum/blob/667dd374be316f463992795997622f2a524bdb29/results_pantries_before.png)|![Histogram of proportion of red foods after](https://github.com/liv4data/mph-practicum/blob/667dd374be316f463992795997622f2a524bdb29/results_pantries_after.png)|
+|![Historgram of proportion of red foods before](https://github.com/liv4data/projects/blob/88b63fcabf66be9c44448496c0b154afea30b828/mph-practicum/results_pantries_before.png)|![Histogram of proportion of red foods after](https://github.com/liv4data/projects/blob/88b63fcabf66be9c44448496c0b154afea30b828/mph-practicum/results_pantries_after.png)|
 |---|---|
 |**Figure 1.** Histogram of the proportion of red foods prior to beginning nutritional conversations with pantries.|**Figure 2.** Histogram of the proportion of red foods six months after initiating nutritional conversations with pantries.|
 
