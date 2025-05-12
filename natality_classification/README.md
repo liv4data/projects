@@ -1,6 +1,6 @@
 # Cesarean Delivery Classification
 [EDA Notebook](https://nbviewer.org/github/liv4data/projects/blob/bc9b6fab55614febb79f8f140c8d4de20d3bd218/natality_classification/natality_EDA.ipynb)\
-[Classification Notebook](https://nbviewer.org/github/liv4data/projects/blob/22dc61ec0ef56fa790118dca151c649b9ad8e843/natality_classification/natality_classification.html)
+[Classification Notebook](https://nbviewer.org/github/liv4data/projects/blob/9ad64db0dfeb8e57b914ec30c8f174c37e1cfea7/natality_classification/natality_classification.html)
 
 ## Packages & Libraries
 - Pyspark (SQL & ML)
